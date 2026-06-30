@@ -11,44 +11,29 @@ Crystal Clash is a minigame based on "Gem Grab" from Brawl Stars for Craftsman, 
 ## Links
 
 - Repository: [CrystalClash](https://github.com/mateocollar/crystal-clash)
-- Discord: https://discord.gg/4D5qqVxdK8
+- Discord: [PocketMine 2.0.0](https://discord.gg/4D5qqVxdK8)
 - License: ./LICENSE
 
 ## Usage
 
-```php
-Profiler::start("database");
-
-// Code...
-
-Profiler::end("database");
-Profiler::dumpEntry("database");
-```
-
-```php
-Profiler::run("cleanArena", function () {
-    // Code...
-}, $arg1);
-    
-Profiler::dumpDetailed();
+```Download the file "CrystalClash_v1.0.phar" and place it in your "plugins" folder, Restart the server and it will be active. 
 ```
 
 ## Features
 
-- Lightweight.
-- Zero dependencies.
-- Callback support.
-- Named profiling entries.
-- Timing statistics.
-- Simple and detailed output.
+- Cup System.
+- Gadgets & Hypercargas.
+- Statistics system.
 
 ## Contributing
 
-Pull requests, issues and suggestions are welcome.
+This project was made possible thanks to 3 people who worked as a team to achieve it.
 
-## Credits
+- https://github.com/mateocollar
+- https://github.com/0hdadian
+- https://github.com/
 
-Created and maintained by Mateo Collar.
+Credit for the creation of this plugin will go to the 3 people mentioned above.
 
 ## License
 
