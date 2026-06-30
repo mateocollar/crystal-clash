@@ -16,8 +16,7 @@ Crystal Clash is a minigame based on "Gem Grab" from Brawl Stars for Craftsman, 
 
 ## Usage
 
-```Download the file "CrystalClash_v1.0.phar" and place it in your "plugins" folder, Restart the server and it will be active. 
-```
+Download the file "CrystalClash_v1.0.phar" and place it in your "plugins" folder, Restart the server and it will be active. 
 
 ## Features
 
@@ -37,4 +36,4 @@ Credit for the creation of this plugin will go to the 3 people mentioned above.
 
 ## License
 
-Licensed under the MIT License.
+This project used the "Mozilla Public License Version 2.0" license.
