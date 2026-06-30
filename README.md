@@ -10,8 +10,7 @@ Crystal Clash is a minigame based on "Gem Grab" from Brawl Stars for Craftsman, 
 
 ## Links
 
-- GitHub: https://github.com/mateocollar
-- Repository:
+- Repository: [CrystalClash](https://github.com/mateocollar/crystal-clash)
 - Discord: https://discord.gg/4D5qqVxdK8
 - License: ./LICENSE
 
