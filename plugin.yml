@@ -1,0 +1,8 @@
+name: "crystal-clash"
+api:
+  - 2.0.0
+version: 1
+main: cc\Loader
+description: "Descripción provisional"
+author: "mateocollar & 0hDadian & zDanix07"
+website: "https://github.com/mateocollar/crystal-clash"
