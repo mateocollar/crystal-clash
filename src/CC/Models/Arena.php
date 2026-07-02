@@ -19,11 +19,11 @@ class Arena {
         $this->players=[];
     }
 
-    public function addPlayer(Player $player) : void {
+    public function addPlayer(Player $player) {
         $this->players[$player->getName()] = $player;
     }
 
-    public function removePlayer(Player $player) : void {
+    public function removePlayer(Player $player) {
         unset($this->players[$player->getName()]);
     }
 
